@@ -15,4 +15,9 @@ Extract the 3 folders to gmodserver\garrysmod
   
 Unstuck addon:  
 https://github.com/MrGrim48/gmod_unstuck  
-Extract lua to gmodserver\garrysmod\addons
+Extract lua to gmodserver\garrysmod\addons  
+  
+CS:S content:  
+http://files.fragboss.com/CSS%20Game%20Content.zip  
+Extract the folder to garrysmod\addons  
+
